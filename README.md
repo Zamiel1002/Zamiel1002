@@ -1,6 +1,6 @@
 - Hi, I’m @Zamiel1002
-- I’m interested in coding, listening music, reading manga and soccer
-- I’m currently learning c#
+- I’m interested in coding, listening music, reading manga and football
+- I’m currently learning c, c#, java
 
 
 <!---
